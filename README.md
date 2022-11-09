@@ -1,4 +1,3 @@
-# 
 Author Name Disambiguation for Digital Libraries
 
 # 
@@ -6,6 +5,10 @@ Author Name Disambiguation for Digital Libraries
 Case of Arabic names
 
 - [x] Normalization
-- [x] Transliteration
+- [x] Transliteration 
 - [x] Fuzzy matching
 - [x] Connected components graph
+
+#
+
+Database covers romanized Arabic personal names
