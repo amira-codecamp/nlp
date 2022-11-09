@@ -2,4 +2,9 @@ NLP algorithms to improve data quality, exploitation, and extraction - case of s
 
 #
 
-Tasks including : name disambiguation; metadata extraction; keywords extraction; text summarization; text classification...
+Tasks including : 
+- [x] name disambiguation
+- [x] metadata extraction 
+- [x] keywords extraction
+- [x] text summarization
+- [x] text classification
