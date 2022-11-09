@@ -1,4 +1,4 @@
-NLP algorithms to improve data quality, exploitation, and extraction - case of study : scientific documents
+Research project to improve data processing - case of study : scientific documents
 
 #
 
