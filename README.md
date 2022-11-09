@@ -2,5 +2,4 @@
 
 Case of Arabic names
 
-<a href="schema.png" />
-<img src="schema" />
+![alt text](schema.png "")
