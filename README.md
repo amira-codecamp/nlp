@@ -1,6 +1,4 @@
-Author name disambiguation for digital libraries
-
-# 
+# Name disambiguation  
 
 Case of Arabic names
 
