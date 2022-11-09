@@ -1,4 +1,4 @@
-Author Name Disambiguation for Digital Libraries
+Author name disambiguation for digital libraries
 
 # 
 
