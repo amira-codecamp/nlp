@@ -8,4 +8,4 @@ Case of Arabic names
 - [x] Normalization
 - [x] Transliteration
 - [x] Fuzzy matching
-- [x] Connected components
+- [x] Connected components graph
