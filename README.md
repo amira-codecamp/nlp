@@ -1,8 +1,6 @@
-Name disambiguation 
+Arabic name disambiguation 
 
 #
-
-Case of Arabic names
 
 - [x] Normalization
 - [x] Transliteration 
@@ -10,4 +8,4 @@ Case of Arabic names
 
 #
 
-Database covers romanized Arabic personal names
+Database covers romanized arabic personal names
