@@ -2,4 +2,7 @@
 
 Case of Arabic names
 
-![alt text](schema.png "")
+[] Normalization
+[] Transliteration
+[] Fuzzy matching
+[] Connected components
