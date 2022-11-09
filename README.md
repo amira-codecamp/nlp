@@ -2,7 +2,7 @@
 
 Case of Arabic names
 
-- [] Normalization
-- [] Transliteration
-- [] Fuzzy matching
-- [] Connected components
+- [x] Normalization
+- [x] Transliteration
+- [x] Fuzzy matching
+- [x] Connected components
