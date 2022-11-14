@@ -4,7 +4,7 @@ Research project to improve data processing - case of study : scientific documen
 
 Tasks including : 
 - [x] name disambiguation
-- [x] metadata extraction 
-- [x] keywords extraction
-- [x] text summarization
-- [x] text classification
+- [ ] metadata extraction 
+- [ ] keywords extraction
+- [ ] Text summarization
+- [ ] Text classification
