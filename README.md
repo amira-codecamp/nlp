@@ -1,4 +1,4 @@
-Data quality, exploitation and extraction.
+Improve data quality, exploitation and extraction in scientific publications.
 
 #
 
