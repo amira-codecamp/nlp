@@ -1,4 +1,4 @@
-Abstract and keywords extraction from scientific articles and thesis.
+Abstract and keywords extraction from articles and thesis.
 
 #
 
