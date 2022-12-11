@@ -1,10 +1,9 @@
-Research project to improve data processing - case of study : scientific documents
+Improve data quality, exploitation and extraction in scientific publications.
 
 #
 
 Tasks including : 
 - [x] name disambiguation
-- [ ] metadata extraction 
-- [ ] keywords extraction
+- [x] metadata extraction 
+- [ ] key-phrases extraction
 - [ ] Text summarization
-- [ ] Text classification
