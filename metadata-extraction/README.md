@@ -2,8 +2,9 @@ Abstract and keywords extraction from articles and thesis.
 
 #
 
-- [x] PDF parsing
-- [x] Regex search
+- [x] Text extraction 
+- [x] Text cleaning
+- [x] Text searching
 
 # 
 
