@@ -1,10 +1,9 @@
-Abstract and keywords extraction from articles and thesis.
+Abstract and keywords extraction from ETD - electronic theses and dissertations.
 
 #
 
-- [x] Text extraction 
-- [x] Text cleaning
-- [x] Text searching
+- [x] PDF2Text
+- [x] Rule-based System
 
 # 
 
