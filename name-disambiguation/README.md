@@ -1,4 +1,4 @@
-Arabic name disambiguation 
+Name disambiguation based on string matching
 
 #
 
