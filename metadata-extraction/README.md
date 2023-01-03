@@ -7,4 +7,4 @@ Abstract and keywords extraction from ETD - electronic theses and dissertations
 
 # 
 
-Languages including english, french, arabic.
+Languages including english, french, arabic
