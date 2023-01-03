@@ -1,9 +1,9 @@
-Abstract and keywords extraction from ETD - electronic theses and dissertations.
+Abstract and keywords extraction from ETD - electronic theses and dissertations
 
 #
 
-- [x] PDF2Text
-- [x] Rule-based system
+- [x] Text extraction
+- [x] Template matching system
 
 # 
 
