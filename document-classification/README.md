@@ -6,7 +6,8 @@ https://en.wikipedia.org/wiki/Fields_of_Science_and_Technology
 # Model architecture
 ![Model architecture](architecture.png)
 
-# 
+# Code
+#
 import joblib
 #
 model = joblib.load("FoS_classifier.pkl") # load 
