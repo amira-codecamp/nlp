@@ -8,5 +8,7 @@ https://en.wikipedia.org/wiki/Fields_of_Science_and_Technology
 
 # 
 import joblib
+#
 model = joblib.load("FoS_classifier.pkl") # load 
+#
 label = model.predict([text]) # predict 
