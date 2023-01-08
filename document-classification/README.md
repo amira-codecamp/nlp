@@ -1,13 +1,13 @@
-Scientific documents classification (ETDs & articles) using naive bayes 
+Scientific documents classification (ETDs & articles) using multilayer perceptron
 Languages including english, french, arabic
 
-# FoS classification system
-https://en.wikipedia.org/wiki/Fields_of_Science_and_Technology
+# Classification system
+['Health sciences', 'Pure siences', 'Engineering', 'Applied sciences', 'Social siences', 'Languages and literature, Archaeology', 'Law', 'Administrative sciences', 'Arts', 'Multidisciplinary']
 
 # Model architecture
 ![Model architecture](architecture.png)
 
 # 
 import joblib
-model = joblib.load("FoS_classifier.pkl") # load 
+model = joblib.load("model.pkl") # load 
 label = model.predict([text]) # predict 
