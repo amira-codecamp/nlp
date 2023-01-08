@@ -8,5 +8,7 @@ Scientific documents classification (ETDs & articles) using multilayer perceptro
 
 # Code
 import joblib
+#
 model = joblib.load("model.pkl") # load 
+#
 label = model.predict([text]) # predict 
