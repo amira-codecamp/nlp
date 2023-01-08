@@ -7,7 +7,7 @@ Languages including english, french, arabic
 # Model architecture
 ![Model architecture](architecture.png)
 
-# 
+# Code
 import joblib
 model = joblib.load("model.pkl") # load 
 label = model.predict([text]) # predict 
