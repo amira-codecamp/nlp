@@ -1,5 +1,4 @@
-Scientific documents classification (ETDs & articles) using multilayer perceptron
-Languages including english, french, arabic
+Scientific documents classification (ETDs & articles) using multilayer perceptron - languages including english, french, arabic
 
 # Classification system
 ['Health sciences', 'Pure siences', 'Engineering', 'Applied sciences', 'Social siences', 'Languages and literature, Archaeology', 'Law', 'Administrative sciences', 'Arts', 'Multidisciplinary']
