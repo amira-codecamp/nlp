@@ -5,10 +5,3 @@ Scientific documents classification (ETDs & articles) using multilayer perceptro
 
 # Model architecture
 ![Model architecture](model.png)
-
-# Code
-import joblib
-#
-model = joblib.load("model.pkl") # load 
-#
-label = model.predict([text]) # predict 
