@@ -4,7 +4,7 @@ Scientific documents classification (ETDs & articles) using multilayer perceptro
 ['Health sciences', 'Fundamental sciences', 'Engineering', 'Applied sciences', 'Social sciences', 'Languages and literature, Archaeology', 'Law', 'Administrative sciences', 'Arts', 'Multidisciplinary']
 
 # Model architecture
-![Model architecture](Architecture.png)
+![Model architecture](model.png)
 
 # Code
 import joblib
